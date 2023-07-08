@@ -18,6 +18,11 @@
 ### Upload PDF File Feature
 ![Screenshot (1786)](https://github.com/mihirrana620/PDF-Management-and-Colabration-System/assets/84765232/03e8b420-44ee-4b7d-87cc-2fbdbbb1399e)
 
+### View PDF File Feature
+![image](https://github.com/mihirrana620/PDF-Management-and-Colabration-System/assets/84765232/75a7d475-dfc8-4245-8db3-ad0ba4d90f3b)
+
+
+
 
 
 
