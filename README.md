@@ -1,5 +1,9 @@
 # PDF-Management-and-Colabration-System
 
+Sample Login Account:
+email : mihirrana620@gmail.com
+password : 1234567
+
 ### Home Page
 ![image](https://github.com/mihirrana620/PDF-Management-and-Colabration-System/assets/84765232/440a6d40-c943-4a59-b3eb-3a46926a248d)
 
