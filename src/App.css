@@ -1,0 +1,13 @@
+html,body,.subbar {
+    /* The image used */
+    background-image: url("./assets/bg.jpg");
+  
+    /* Full height */
+    height: 100%;
+    z-index: -100;
+    
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
